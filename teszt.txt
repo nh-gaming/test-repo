@@ -1,4 +1,4 @@
 a new file
 
-v1.1
+v1.2
 sznorbert
